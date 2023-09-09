@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Form/static/css/main.fbe24c12.css",
+    "main.js": "/Form/static/js/main.ee521b60.js",
+    "static/media/3d-business-girls-with-phones.png": "/Form/static/media/3d-business-girls-with-phones.860867fb9907270f99b4.png",
+    "static/media/gate.jpg": "/Form/static/media/gate.38af7d384a9c1e2d4700.jpg",
+    "static/media/logo.png": "/Form/static/media/logo.1b1fdf3dc8e964727d8d.png",
+    "static/media/govt.exam.webp": "/Form/static/media/govt.exam.a45dcf4c250500a1247d.webp",
+    "static/media/background.jpg": "/Form/static/media/background.c5e632e3ee357e106205.jpg",
+    "index.html": "/Form/index.html",
+    "main.fbe24c12.css.map": "/Form/static/css/main.fbe24c12.css.map",
+    "main.ee521b60.js.map": "/Form/static/js/main.ee521b60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe24c12.css",
+    "static/js/main.ee521b60.js"
+  ]
+}
